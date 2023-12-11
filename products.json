@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name":" Film Processing and Service",
+        "price": 200,
+        "image": "img/Pentax 67, 55mm f_4, Cinestill 800T.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" Film Printing",
+        "price": 10,
+        "image": "img/photo camera.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" Disposable Processing and Scanning",
+        "price": 200,
+        "image": "img/(46).jpeg"
+    }
+
+]
